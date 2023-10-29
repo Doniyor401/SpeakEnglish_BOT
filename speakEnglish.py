@@ -12,7 +12,7 @@ from requests import *
 
 translator = Translator()
 
-API_TOKEN = '6728696673:AAEj-X4rdUR7h1_Xb3NipUwDhv6AomEiDEU'
+API_TOKEN = 'YOUR TOKEN'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
